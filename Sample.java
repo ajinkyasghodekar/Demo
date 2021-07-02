@@ -1,6 +1,7 @@
 class test{
 	private int a;
 	private String b;
-	private float f;
-	private char c;
+	public void m1(){
+		System.out.println("I am in method m1()");
+	}
 }
